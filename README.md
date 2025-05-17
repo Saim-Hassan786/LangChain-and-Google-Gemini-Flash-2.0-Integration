@@ -2,7 +2,7 @@
 
 This project showcases how to integrate **LangChain**, a modular framework for developing language model applications, with **Google Gemini Flash 2.0**, a high-speed and cost-efficient large language model (LLM) 
 
-By connecting LangChain with Gemini Flash 2.0, developers can harness the structured logic of LangChain's agents, chains, and tools while leveraging the fast inference, low latency, and scalability of Google's latest foundation models.
+By connecting LangChain with Gemini Flash 2.0, developers can harness the structured logic of LangChain's agents, chains, and tools while leveraging the fast inference,low latency, and scalability of Google's latest foundation models.
 
 ---
 
